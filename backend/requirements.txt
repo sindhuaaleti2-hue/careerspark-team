@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+groq
+sqlalchemy
+passlib
+python-jose
+pydantic
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+huggingface-hub

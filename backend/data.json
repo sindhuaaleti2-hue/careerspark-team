@@ -1,0 +1,182 @@
+{
+  "careers": [
+    {
+      "name": "Data Scientist",
+      "category": "Technology",
+      "description": "Analyze data to extract insights and build predictive models.",
+      "eligibility": "BTech / BSc / Any degree with Math or Statistics",
+      "after_12th_path": [
+        "Take PCM in 12th",
+        "Do BTech / BSc in CS/IT/Math",
+        "Learn Python & ML"
+      ],
+      "skills": ["Python", "Machine Learning", "Statistics", "SQL"],
+      "subjects": ["Mathematics", "Programming"],
+      "exams": [
+        {
+          "name": "GATE",
+          "link": "https://gate.iitk.ac.in/"
+        }
+      ],
+      "top_colleges": [
+        {
+          "name": "IITs",
+          "link": "https://www.iitb.ac.in/"
+        },
+        {
+          "name": "IISc",
+          "link": "https://iisc.ac.in/"
+        }
+      ],
+      "jobs": ["Data Analyst", "ML Engineer", "AI Engineer"],
+      "salary": "6–20 LPA (India), $80k–150k (Global)",
+      "industry_demand": "Very high demand due to AI growth",
+      "roadmap": [
+        "Learn Python",
+        "Learn Statistics",
+        "Learn Machine Learning",
+        "Build projects",
+        "Apply for jobs"
+      ],
+      "resources": [
+        "https://www.coursera.org",
+        "https://www.kaggle.com"
+      ]
+    },
+
+    {
+      "name": "Chartered Accountant (CA)",
+      "category": "Commerce",
+      "description": "Manage financial records and auditing.",
+      "eligibility": "12th (Commerce preferred)",
+      "after_12th_path": [
+        "Register for CA Foundation",
+        "Clear Intermediate & Final"
+      ],
+      "skills": ["Accounting", "Finance"],
+      "subjects": ["Accounts", "Economics"],
+      "exams": [
+        {
+          "name": "CA Exams",
+          "link": "https://www.icai.org/"
+        }
+      ],
+      "top_colleges": [
+        {
+          "name": "ICAI",
+          "link": "https://www.icai.org/"
+        }
+      ],
+      "jobs": ["Auditor", "Financial Analyst"],
+      "salary": "6–20 LPA",
+      "industry_demand": "High in finance sector",
+      "roadmap": [
+        "CA Foundation",
+        "CA Intermediate",
+        "CA Final"
+      ],
+      "resources": [
+        "https://www.icai.org/"
+      ]
+    },
+
+    {
+      "name": "UPSC Civil Services (IAS/IPS/IFS)",
+      "category": "Government",
+      "description": "Prestigious government career in administration and policymaking.",
+      "eligibility": "Graduate in any discipline",
+      "skills": [
+        "Analytical thinking",
+        "Writing skills",
+        "Current affairs knowledge"
+      ],
+      "subjects": [
+        "Polity",
+        "History",
+        "Geography",
+        "Economics"
+      ],
+      "exams": [
+        {
+          "name": "UPSC CSE",
+          "link": "https://upsc.gov.in/"
+        }
+      ],
+      "jobs": ["IAS", "IPS", "IFS"],
+      "salary": "₹8–15 LPA",
+      "industry_demand": "Highly competitive",
+      "roadmap": [
+        "Complete graduation",
+        "Prepare NCERT",
+        "Follow current affairs",
+        "Clear Prelims, Mains, Interview"
+      ],
+      "resources": [
+        "https://upsc.gov.in/",
+        "https://pib.gov.in/"
+      ]
+    },
+
+    {
+      "name": "AI Engineer",
+      "category": "Technology",
+      "description": "Build AI systems like chatbots and automation tools.",
+      "eligibility": "BTech / BSc",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "subjects": [
+        "Math",
+        "Programming"
+      ],
+      "jobs": [
+        "AI Engineer",
+        "ML Engineer"
+      ],
+      "salary": "₹10–40 LPA",
+      "industry_demand": "Very high",
+      "roadmap": [
+        "Learn Python",
+        "Learn ML",
+        "Build projects"
+      ],
+      "resources": [
+        "https://coursera.org",
+        "https://kaggle.com"
+      ]
+    },
+
+    {
+      "name": "3D Artist / Animator",
+      "category": "Creative",
+      "description": "Create 3D visuals for movies and games.",
+      "eligibility": "Any stream",
+      "skills": [
+        "Creativity",
+        "Blender/Maya",
+        "Animation"
+      ],
+      "subjects": [
+        "Design",
+        "Multimedia"
+      ],
+      "jobs": [
+        "3D Artist",
+        "Animator"
+      ],
+      "salary": "₹3–12 LPA",
+      "industry_demand": "Growing",
+      "roadmap": [
+        "Learn Blender",
+        "Build portfolio",
+        "Apply for jobs"
+      ],
+      "resources": [
+        "https://blender.org",
+        "https://cgcookie.com"
+      ]
+    }
+  ]
+}
